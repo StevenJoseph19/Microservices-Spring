@@ -1,0 +1,16 @@
+POST http://localhost:8080/friend
+ {
+        "first-name": "Ada",
+        "last-name": "Lovelace",
+        "age":43,
+        "addresses":[{
+            "street":"Park Lane 3",
+            "city":"Little Town"
+        },
+        {
+            "street":"Park Avenue 3",
+            "city":"Big Town"
+        }
+
+        ]
+    }
