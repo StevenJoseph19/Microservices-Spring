@@ -1,0 +1,5 @@
+Open to the root of the project in VSCode or at the command prompt and run the following:
+
+npm install
+
+This will install all the dependencies listed in package.json.
